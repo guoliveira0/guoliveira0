@@ -1,6 +1,7 @@
 ### Oiii! 👋
 
-- 🌱 Estou atualmente aprendendo c#.
+- 🌱 Estou atualmente aprendendo HTML e CSS.
+- 🪴 Conhecimentos em MySql e C#
 
 <div align="center">
   <a href="https://github.com/guoliveira0">
