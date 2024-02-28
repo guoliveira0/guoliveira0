@@ -1,4 +1,5 @@
 ### Olá Mundo! 👋
+#### Sou apaixonado pela arte de resolver problemas utilizando a tecnologia e desenvolver novas habilidades nesse processo.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
