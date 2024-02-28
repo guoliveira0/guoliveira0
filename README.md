@@ -2,7 +2,10 @@
 #### Sou apaixonado pela arte de resolver problemas utilizando a tecnologia e desenvolver novas habilidades nesse processo.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guoliveira0&hide=stars&theme=dark)](https://github.com/guoliveira0/github-readme-stats)
+div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=guolveira0&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-guoliveira0.vercel.app/api/top-langs/?username=guoliveira0&show_icons=true&theme=radical&layout=compact" />
+ </div>
 
 
 <div style="display: inline_block"><br>
