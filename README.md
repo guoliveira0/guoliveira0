@@ -1,13 +1,13 @@
 ### Olá Mundo! 👋
 #### Sou apaixonado pela arte de resolver problemas utilizando a tecnologia e desenvolver novas habilidades nesse processo.
 
-
+<hr>
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=guoliveira0&theme=dark&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=guoliveira0&show_icons=true&theme=dark&layout=compact" />
  </div>
 
-
+<hr>
 <div style="display: inline_block"><br>
   <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
