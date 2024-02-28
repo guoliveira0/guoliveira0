@@ -1,6 +1,10 @@
 ### Olá Mundo! 👋
 #### Sou apaixonado pela arte de resolver problemas utilizando a tecnologia e desenvolver novas habilidades nesse processo.
 
+<div>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guoliveira0)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
